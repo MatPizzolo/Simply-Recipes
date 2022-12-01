@@ -108,7 +108,7 @@
 
 Mateo Pizzolo - matpizzolo@gmail.com
 
-Project Link: [https://github.com/MatPizzolo/netflix-clone](https://github.com/MatPizzolo/netflix-clone)
+Project Link: [https://github.com/MatPizzolo/Simply-Recipes](https://github.com/MatPizzolo/Simply-Recipes)
 
 
 
