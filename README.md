@@ -9,13 +9,12 @@
     <img src="./src/assets/images/logo.svg" alt="Logo" width="180" height="80">
   </a>
 
-<h3 align="center">Simply Recipes</h3>
 
   <p align="center">
     <br />
     <br />
     <br />
-    <a href="https://netflix-clone-mp.netlify.app" target="_blank">View Demo</a>
+    <a href="https://mateopizzolo-simple-recipes.netlify.app" target="_blank">View Demo</a>
   </p>
 </div>
 
@@ -52,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <p>A Netflix Clone made with themoviedb API.</p> 
+ <p>A simple recipe searcher to show how fast Gatsby.js is.</p> 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
