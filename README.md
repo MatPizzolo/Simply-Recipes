@@ -66,7 +66,7 @@
 * [![Css][Css.com]][Css-url]
 * [![JS][Js]][Js-url]
 * [![React][React.js]][React-url]
-* [![Gatsby][Gatsby]][React-url]
+* [![Gatsby][Gatsby.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,5 +125,5 @@ Project Link: [https://github.com/MatPizzolo/netflix-clone](https://github.com/M
 [HTML-url]: https://reactjs.org/
 [JS]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JS-url]: https://reactjs.org/
-[Gatsby]:(https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+[Gatsby.js]:(https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 
