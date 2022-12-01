@@ -66,7 +66,7 @@
 * [![Css][Css.com]][Css-url]
 * [![JS][Js]][Js-url]
 * [![React][React.js]][React-url]
-* [![Gatsby][Gatsby]]
+* [![Gatsby][Gatsby]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
