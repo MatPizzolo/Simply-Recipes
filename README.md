@@ -51,22 +51,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+### Built With
+
+* [![HTML][HTML]][HTML-url]
+ [![Css][Css.com]][Css-url]
+* [![JS][Js]][Js-url]
+ [![React][React.js]][React-url]
+ [![Gatsby][Gatsby.js]][React-url]
+
  <p>A simple recipe searcher to show how fast Gatsby.js is.</p> 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![HTML][HTML]][HTML-url]
-* [![Css][Css.com]][Css-url]
-* [![JS][Js]][Js-url]
-* [![React][React.js]][React-url]
-* [![Gatsby][Gatsby.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
