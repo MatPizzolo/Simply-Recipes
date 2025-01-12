@@ -7,7 +7,7 @@
     <img src="./src/assets/images/logo.svg" alt="Logo" width="180" height="80">
   </a>
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MatPizzolo/Nio-Resto/blob/main/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MatPizzolo/Simply-Recipes/blob/main/README.en.md)
     
   <p align="center">
     <br />
